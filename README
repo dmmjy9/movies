@@ -1,0 +1,7 @@
+I'm a project that can create a page, show some movie information including movie title, poster image and trailer urlon Youtube.
+define_class.py: Define a class named "Movie", have three parameters--movie_title, poster_image and trailer_url. Alsohave a function named "show_trailer" to open the trailer on YouTube.
+fresh_tomatoes.py: This file have some html and css code to show the page, also have a function named "open_movie_page",need an list attribute, the list should have all of the movie object.
+
+When you run the file "main.py", a html page will create and saved in a directory that the python project saved in. Also, the html file will open in a web browser.
+You can see some of the movies' title, post image. If you click a movie, a trailer will play.You should connect to Internet and make sure you can open YouTube and Wikipedia.
+By the way, I'm a Chinese.You know painfully I use YouTube, very slowly.
